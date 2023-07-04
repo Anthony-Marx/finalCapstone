@@ -1,0 +1,8 @@
+Users Registered: 1
+Tasks generated/tracked: 3
+Tasks assigned to user: 3
+Percentage tasks assigned to user: 100.0
+Tasks assigned to user: 3
+Percentage tasks assigned to user: 100.0
+Tasks assigned to user: 3
+Percentage tasks assigned to user: 100.0
